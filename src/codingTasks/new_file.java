@@ -8,10 +8,20 @@ public class new_file {
         System.out.println("asbcavsdnvbds.");
         System.out.println("asbcavsdnvbds.");
         System.out.println("asbcavsdnvbds.");
-        System.out.println("asnclacaskdnvclsancf");
-                System.out.println("asnclacaskdnvclsancf");
-        System.out.println("asnclacaskdnvclsancf");
-        System.out.println("asnclacaskdnvclsancf");
+        System.out.println("sdcfsdv");
+        System.out.println("sdvcsdv");
+        System.out.println("sdvsdv");
+        System.out.println("sdvsdvsv");
+        System.out.println("asbcavsdnvbds.");
+        System.out.println("asbcavsdnvbds.");
+        System.out.println("asbcavsdnvbds.");
+        System.out.println("sdcfsdv");
+        System.out.println("sdvcsdv");
+        System.out.println("sdvsdv");
+        System.out.println("sdvsdvsv");
+
+
+
 
         System.out.println("asbcavsdnvbds.");
         System.out.println("asbcavsdnvbds.");
